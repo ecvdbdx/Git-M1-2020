@@ -1,9 +1,10 @@
-Mon plat préféré c'est LE THON MARINE AUX AUBERGINES PLEINS DE SAVEURS
 
-Ma couleur préférée c'est LE BLEU
+Mon plat préféré c'est le tofu
 
-Mon groupe de bossa-nova préféré c'est koba lad
+Ma couleur préférée c'est l'indigo
 
-Comme IDE j'utilise VI
+Mon groupe de bossa-nova préféré c'est Iron Maiden
 
-Ce que j'aime le plus dans le marketing c'est vendre plein de produits
+Comme IDE j'utilise Emacs
+
+Ce que j'aime le plus dans le marketing c'est la sincérité
