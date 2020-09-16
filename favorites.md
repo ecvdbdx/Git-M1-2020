@@ -1,9 +1,9 @@
-Mon plat préféré c'est Magret
+Mon plat préféré c'est le magret
 
-Ma couleur préférée c'est le Orange
+Ma couleur préférée c'est le violet cendré
 
-Mon groupe de bossa-nova préféré c'est ???
+Mon groupe de bossa-nova préféré c'est Lamb of god
 
 Comme IDE j'utilise PHPStorm
 
-Ma couleur préférée c'est le violet cendré
+Ce que j'aime le plus dans le marketing c'est 🤑🤑🤑🤑
