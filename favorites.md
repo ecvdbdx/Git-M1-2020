@@ -1,9 +1,9 @@
-Mon plat préféré c'est l'argent
+Mon plat préféré c'est le tofu
 
-Ma couleur préférée c'est le noir (gnegnegne c'est pas une couleur)
+Ma couleur préférée c'est l'indigo
 
-Mon groupe de bossa-nova préféré c'est Nekfeu
+Mon groupe de bossa-nova préféré c'est Iron Maiden
 
-Comme IDE j'utilise VSCODE
+Comme IDE j'utilise Emacs
 
-Ce que j'aime le plus dans le marketing c'est : c'est quoi le marketing ?
+Ce que j'aime le plus dans le marketing c'est la sincérité
