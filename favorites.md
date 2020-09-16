@@ -1,6 +1,6 @@
 Mon plat préféré c'est
 
-Ma couleur préférée c'est
+Ma couleur préférée c'est le jaune moutarde
 
 Mon groupe de bossa-nova préféré c'est
 
