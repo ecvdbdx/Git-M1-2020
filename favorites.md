@@ -1,21 +1,14 @@
-<<<<<<< HEAD
-Mon plat préféré c'est la paella
 
-Ma couleur préférée c'est oui
-
-Mon groupe de bossa-nova préféré c'est Iron Maiden
-
-Comme IDE j'utilise microsoft word
-
-Ce que j'aime le plus dans le marketing c'est les toas de tarama
-=======
 Mon plat préféré c'est le tofu
 
-Ma couleur préférée c'est l'indigo
+Mon plat préféré est bon
 
-Mon groupe de bossa-nova préféré c'est Iron Maiden
+Ma couleur préférée c'est le jaune moutarde
 
-Comme IDE j'utilise Emacs
+Mon groupe de bossa-nova préféré c'est celui que spotify me recommande
+
+Comme IDE j'utilise VS
+
+Ce que j'aime le plus dans le marketing c'est que je peux ne pas en faire
 
 Ce que j'aime le plus dans le marketing c'est la sincérité
->>>>>>> origin/master
