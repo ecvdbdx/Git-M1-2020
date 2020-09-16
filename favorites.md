@@ -6,4 +6,24 @@ Mon groupe de bossa-nova préféré c'est connais pas
 
 Comme IDE j'utilise VS Code
 
-Ce que j'aime le plus dans le marketing c'est la sincérité
+
+
+
+
+
+
+Mon plat préféré c'est Magret
+
+
+Ma couleur préférée c'est le Orange
+
+Mon groupe de bossa-nova préféré c'est ???
+
+Comme IDE j'utilise VS Code
+
+
+Ma couleur préférée c'est le jaune moutarde
+
+
+
+
