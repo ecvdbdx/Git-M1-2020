@@ -22,7 +22,7 @@ Mon groupe de bossa-nova préféré c'est ???
 Comme IDE j'utilise VS Code
 
 
-Ma couleur préférée c'est le jaune moutarde
+Ma couleur préférée c'est le violet cendré
 
 
 
