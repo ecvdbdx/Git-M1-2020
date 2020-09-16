@@ -6,4 +6,4 @@ Mon groupe de bossa-nova préféré c'est ???
 
 Comme IDE j'utilise PHPStorm
 
-Ma couleur préférée c'est le jaune moutarde
+Ma couleur préférée c'est le violet cendré
