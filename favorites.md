@@ -1,6 +1,6 @@
 Mon plat préféré est bon
 
-Ma couleur préférée c'est le jaune moutarde
+Ma couleur préférée c'est le violet cendré
 
 Mon groupe de bossa-nova préféré c'est celui que spotify me recommande
 
