@@ -1,4 +1,4 @@
-Mon plat préféré c'est rien2
+Mon plat préféré c'est rien
 
 Ma couleur préférée c'est rien
 
