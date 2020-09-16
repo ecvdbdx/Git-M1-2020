@@ -1,9 +1,11 @@
 Mon plat préféré c'est cordons bleus
 
-Ma couleur préférée c'est noir
+Ma couleur préférée c'est le jaune moutarde
 
-Mon groupe de bossa-nova préféré c'est wut ?
+Ma couleur préférée c'est l'indigo
 
-Comme IDE j'utilise BRACKET
 
-Ce que j'aime le plus dans le marketing, j'aime pas le marketing
+Mon groupe de bossa-nova préféré c'est Iron Maiden
+
+Comme IDE j'utilise Emacs
+
