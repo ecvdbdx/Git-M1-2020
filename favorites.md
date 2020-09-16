@@ -1,10 +1,10 @@
 
 Mon plat préféré c'est le tofu
 
-Ma couleur préférée c'est l'indigo
+Ma couleur préférée c'est Félix
 
-Mon groupe de bossa-nova préféré c'est Iron Maiden
+Mon groupe de bossa-nova préféré c'est Félix
 
-Comme IDE j'utilise Emacs
+Comme IDE j'utilise Félix
 
-Ce que j'aime le plus dans le marketing c'est la sincérité
+Ce que j'aime le plus dans le marketing c'est Félix
