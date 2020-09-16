@@ -4,6 +4,6 @@ Ma couleur préférée c'est le vert
 
 Mon groupe de bossa-nova préféré c'est le caca
 
-Comme IDE j'utilise VS Code
+Comme IDE j'utilise VS Codes
 
 Ce que j'aime le plus dans le marketing c'est absolument rien du tout
