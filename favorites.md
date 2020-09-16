@@ -1,9 +1,9 @@
-Mon plat préféré c'est les lasagnes
+Mon plat préféré c'est Félix
 
-Ma couleur préférée c'est le vert
+Ma couleur préférée c'est Félix
 
-Mon groupe de bossa-nova préféré c'est le caca
+Mon groupe de bossa-nova préféré c'est Félix
 
-Comme IDE j'utilise VS Codes
+Comme IDE j'utilise Félix
 
-Ce que j'aime le plus dans le marketing c'est absolument rien du tout
+Ce que j'aime le plus dans le marketing c'est Félix
