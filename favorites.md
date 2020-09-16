@@ -6,4 +6,4 @@ Mon groupe de bossa-nova préféré c'est
 
 Comme IDE j'utilise
 
-Ce que j'aime le plus dans le marketing c'est
+Ce que j'aime le plus dans le marketing c'est vendre plein de produits
