@@ -1,4 +1,4 @@
-Mon plat préféré c'est Poulet pané
+Mon plat préféré c'est Magret
 
 Ma couleur préférée c'est le Orange
 
