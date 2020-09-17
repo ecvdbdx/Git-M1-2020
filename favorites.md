@@ -1,9 +1,9 @@
-Mon plat préféré c'est les pastabox
+Mon plat préféré c'est leau
 
-Ma couleur préférée c'est noir
+Ma couleur préférée c'est le transparant
 
-Mon groupe de bossa-nova préféré c'est wut ?
+Mon groupe de bossa-nova préféré c'est ACDC ?
 
-Comme IDE j'utilise BRACKET
+Comme IDE j'utilise textedit
 
-Ce que j'aime le plus dans le marketing, j'aime pas le marketing
+Ce que j'aime le plus dans le marketing c'est le design
