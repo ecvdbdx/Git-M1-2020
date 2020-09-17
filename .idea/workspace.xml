@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ef19e7d-67eb-40d3-953a-1c8b5dc29866" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3ef19e7d-67eb-40d3-953a-1c8b5dc29866" name="Default Changelist" comment="Merge branch 'master' of https://github.com/ecvdbdx/Git-M1-2020 into estelle&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favorites.md" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +57,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="oui" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1600257064498">
+    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1600342918907">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1600257064498" />
+    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1600342918907" />
     <state x="240" y="136" key="Vcs.Push.Dialog.v2" timestamp="1600257071559">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
