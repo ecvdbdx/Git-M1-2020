@@ -1,6 +1,6 @@
-Mon plat préféré c'est le poulet
+Mon plat préféré c'est le Magret
 
-Ma couleur préférée c'est le bleu
+Ma couleur préférée c'est le Orange
 
 Mon groupe de bossa-nova préféré c'est Jul
 
