@@ -1,22 +1,9 @@
-<<<<<<< HEAD
-Mon plat préféré c'est le cheval
+Mon plat préféré c'est le magret
 
-Ma couleur préférée c'est le violet
+Ma couleur préférée c'est le violet cendré
 
-Mon groupe de bossa-nova préféré c'est Nekfeu
+Mon groupe de bossa-nova préféré c'est Lamb of god
 
-Comme IDE j'utilise VsCODE
+Comme IDE j'utilise PHPStorm
 
-Ce que j'aime le plus dans le marketing c'est l'argent
-=======
-Mon plat préféré est bon
-
-Ma couleur préférée c'est le jaune moutarde
-
-Mon groupe de bossa-nova préféré c'est celui que spotify me recommande
-
-Comme IDE j'utilise VS
-
-Ce que j'aime le plus dans le marketing c'est que je peux ne pas en faire
-
->>>>>>> origin/master
+Ce que j'aime le plus dans le marketing c'est 🤑🤑🤑🤑
