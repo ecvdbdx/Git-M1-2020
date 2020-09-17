@@ -4,4 +4,5 @@
 <p align="center">👑  Clément Ollivier 👑</p>
 <p align="center">
   <img src="https://slack-imgs.com/?c=1&o1=ro&url=https://tenor.com/bc7cz.gif">
+  https://files.slack.com/files-pri/T3WK391Q9-F01AF4NJ72T/image.png
 </p>
