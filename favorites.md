@@ -2,7 +2,7 @@ Mon plat préféré c'est leau
 
 Ma couleur préférée c'est le transparant
 
-Mon groupe de bossa-nova préféré c'est ACDC ?
+Mon groupe de bossa-nova préféré c'est Little Big
 
 Comme IDE j'utilise textedit
 
